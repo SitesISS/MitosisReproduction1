@@ -1,0 +1,139 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_6JBk7JVT6Im_course_id" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">Mitosis &amp; reproduction Part 1</langstring>
+        </title>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="Mitosis_&amp;_reproduction_Part_1_ORG">
+    <organization identifier="Mitosis_&amp;_reproduction_Part_1_ORG">
+      <title>Mitosis &amp; reproduction Part 1</title>
+      <item identifier="Mitosis_End_of_Unit_Quiz_SCO" isvisible="true" identifierref="__6JBk7JVT6Im_course_id_RES">
+        <title>Mitosis &amp; reproduction Part 1</title>
+        <adlcp:masteryscore>80</adlcp:masteryscore>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__6JBk7JVT6Im_course_id_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="mobile/6JsorwieUfE_80.jpg" />
+      <file href="mobile/5zTNNEDHwEt_80.jpg" />
+      <file href="mobile/62isRSI46fn_X_80.jpg" />
+      <file href="story_content/5WPajW0WEdN_44100_48_0.mp3" />
+      <file href="mobile/5renujTVNPP_M_1440_1440.png" />
+      <file href="mobile/6AVymv2Mesl_M_1224_1224.png" />
+      <file href="mobile/6CigF8NHLM2_M_920_920.png" />
+      <file href="mobile/62Pl85L0SmC_M_1440_1440.png" />
+      <file href="mobile/66SUy5wGJQO_M_1080_1080.png" />
+      <file href="mobile/5liCVpuhLhD_M_1064_1064.png" />
+      <file href="mobile/5YUe8GlmfpR_M_1192_1192.png" />
+      <file href="mobile/6nB7CF69CjW_M_1370_1370.png" />
+      <file href="mobile/5qUrJgP696K_M_1384_1384.png" />
+      <file href="mobile/6bUvJzwI8cN_M_1080_1080.png" />
+      <file href="mobile/5wLQJNISzln_M_1440_1440.png" />
+      <file href="mobile/5wHr7nBwGFb_M_1424_1424.png" />
+      <file href="mobile/6YL6FmrXu0B_M_1262_1262.png" />
+      <file href="mobile/5uUrppIuUic_M_1224_1224.png" />
+      <file href="mobile/65yWvIqNitT_M_1208_1208.png" />
+      <file href="mobile/6R9VRmDT4Ld_M_1154_1154.png" />
+      <file href="mobile/5e8205DiOq2_M_1440_1440.png" />
+      <file href="mobile/6QDh8tak7X0_M_1440_1440.png" />
+      <file href="mobile/5ZRWmBs7R9J_M_1090_1090.png" />
+      <file href="mobile/5u2Wjjebh2j_M_1352_1352.png" />
+      <file href="meta.xml" />
+      <file href="story_content/triggers.js" />
+      <file href="story_content/user.js" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5dNMNDyLKzK.js" />
+      <file href="html5/data/js/5iFzz4LJSDa.js" />
+      <file href="html5/data/js/5ssIbHa19DB.js" />
+      <file href="html5/data/js/5sZJjTUMcZY.js" />
+      <file href="html5/data/js/5tZPRSfskxo.js" />
+      <file href="html5/data/js/5zb0uyHA7Fa.js" />
+      <file href="html5/data/js/5zVcQgUGZKJ.js" />
+      <file href="html5/data/js/60GM59DIx8G.js" />
+      <file href="html5/data/js/60yz2NSWmtI.js" />
+      <file href="html5/data/js/68LdUBAsV91.js" />
+      <file href="html5/data/js/6amlZrXTYkp.js" />
+      <file href="html5/data/js/6cczaRy1ELt.js" />
+      <file href="html5/data/js/6dz6698Dtpq.js" />
+      <file href="html5/data/js/6ee94axEFsb.js" />
+      <file href="html5/data/js/6F1HGGd1gd9.js" />
+      <file href="html5/data/js/6hM1sZI5I9C.js" />
+      <file href="html5/data/js/6J7BRTOBCXs.js" />
+      <file href="html5/data/js/6JYBJOfgoFQ.js" />
+      <file href="html5/data/js/6qdBEiMgENa.js" />
+      <file href="html5/data/js/6qGe5fa8jmG.js" />
+      <file href="html5/data/js/6r5PVOtpmcy.js" />
+      <file href="html5/data/js/6WZrIfMHrjF.js" />
+      <file href="html5/data/js/6XQDkwOzVHJ.js" />
+      <file href="html5/data/js/6Y3S6qsWFnA.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/scripts/bootstrapper.min.js" />
+      <file href="html5/lib/scripts/frame.desktop.min.js" />
+      <file href="html5/lib/scripts/frame.mobile.min.js" />
+      <file href="html5/lib/scripts/slides.min.js" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>
